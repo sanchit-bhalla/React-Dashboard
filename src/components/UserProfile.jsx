@@ -32,7 +32,7 @@ const UserProfile = () => {
         <div>
           <p className="font-semibold text-xl dark:text-gray-200">
             {" "}
-            Michael Roberts{" "}
+            Sanchit Bhalla{" "}
           </p>
           <p className="text-gray-500 text-sm dark:text-gray-400">
             {" "}
